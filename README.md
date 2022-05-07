@@ -1,3 +1,3 @@
 # Descrição da pasta
 
- - Essa pasta servirá para a alocação das atividades e informações do Bootcamp Dio
+ - Essa pasta servirá para a alocação das atividades, informações e certificados do Bootcamp Dio 
